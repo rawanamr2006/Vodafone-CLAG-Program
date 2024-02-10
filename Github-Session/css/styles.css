@@ -1,0 +1,27 @@
+
+.logo{
+  display:flex;
+  width: 30%;
+  height: 30%;
+  min-width: 350px;
+  min-height: 300px;
+  justify-content: flex-start;
+}
+
+.main-header{
+  max-width: 500px;
+}
+
+.main-text{
+  max-width: 500px;
+}
+
+.home-cover{
+  color:white;
+  background: rgb(100,43,129);
+background: linear-gradient(90deg, rgba(100,43,129,1) 32%, rgba(145,122,163,1) 51%, rgba(98,64,156,1) 65%, rgba(98,64,156,1) 88%);
+  /*background-repeat: no-repeat;
+  background-size: cover;
+  background-position: top;
+  background-image: url("E:/Rona's Files/Vodafone - Code Like A Girl Program/Projects/Practice/WE School Website/imgs/we.jpg");*/
+}
